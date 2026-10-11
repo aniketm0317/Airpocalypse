@@ -1,43 +1,67 @@
-🌍 AQI – Air Quality Index Website
-📌 About the Project
-The AQI Website is a web-based application designed to help users check the Air Quality Index (AQI) of different cities. It provides an easy way to understand air pollution levels and stay informed about air quality.
+# 🌍 AQI – Air Quality Index Website
 
-✨ Features
-🔍 Search for a city to check its air quality.
+A simple and user-friendly web application that helps users check the Air Quality Index (AQI) of different cities. The website aims to make air quality information accessible and help users understand pollution levels in their surroundings.
 
-🌫️ Display Air Quality Index (AQI) information.
+## ✨ Features
 
-🎨 Clean and user-friendly interface.
+- 🔍 **City Search:** Search for a city to check its air quality.
+- 🌫️ **AQI Information:** Display air quality data and pollution levels.
+- 🎨 **Clean UI:** Simple and user-friendly interface.
+- 📱 **Responsive Design:** Works across desktop, tablet, and mobile screens.
+- ⚡ **Interactive Experience:** Dynamic functionality using JavaScript.
+- 🌐 **Live AQI Data:** Supports real-time air quality information when connected to an AQI API.
 
-📱 Responsive design for different screen sizes.
+## 🛠️ Technologies Used
 
-⚡ Interactive functionality using JavaScript.
+- **HTML5** – Structures the web pages.
+- **CSS3** – Provides styling, layout, and responsive design.
+- **JavaScript** – Handles user interactions and dynamic data.
+- **AQI API** – Provides air quality data, if integrated.
 
-🛠️ Technologies Used
-HTML5 – Website structure
+## 🚀 Getting Started
 
-CSS3 – Styling and responsive design
+Follow these steps to run the project locally.
 
-JavaScript – Dynamic functionality and data handling
+### 1. Clone the Repository
 
-AQI API – For live air quality data, if integrated
-
-🚀 How to Run
-Clone this repository:
-
+```bash
 git clone YOUR_REPOSITORY_URL
-Open the project folder.
+```
 
-Open index.html in your web browser.
+Replace `YOUR_REPOSITORY_URL` with your actual GitHub repository URL.
 
-Search for a city to check its air quality.
+### 2. Open the Project Folder
 
-🎯 Project Objective
-The main objective of this project is to make air quality information easily accessible and help users become more aware of air pollution.
+```bash
+cd YOUR_PROJECT_FOLDER
+```
 
-👨‍💻 Author
+### 3. Run the Website
+
+Open the `index.html` file in your web browser.
+
+If the project uses an API, make sure the API configuration is set up correctly.
+
+## 🎯 Project Objective
+
+The objective of this project is to make air quality information easier to access and promote awareness about air pollution. It also demonstrates practical skills in front-end web development using HTML, CSS, and JavaScript.
+
+## 📸 Screenshots
+
+Add screenshots of your website here to showcase its design and functionality.
+
+## 🔮 Future Improvements
+
+- Display detailed pollutant information such as PM2.5 and PM10.
+- Show air quality categories with color-coded indicators.
+- Add weather information and health recommendations.
+- Display recent search history.
+- Improve the user experience with interactive charts and visualizations.
+
+## 👨‍💻 Author
+
 Developed as a web development project using HTML, CSS, and JavaScript.
 
-📄 License
-This project is available for educational and learning purposes. 
+## 📄 License
 
+This project is intended for educational and learning purposes.
